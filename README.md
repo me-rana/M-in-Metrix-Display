@@ -9,6 +9,10 @@ Download Resources-M.zip
         [2 and 3 should be Build for make this suitable (.hex) file]
 4. MikroC/FullMmetrix.hex include in Proteus PIC16F877 Program FIles [Include in PIC16F877]
 
-Run this
+Run this.
+
+Thanks,
+Rana Bepari
+B.Sc(Prof) in Electronics and Communication Engineering
 
 
