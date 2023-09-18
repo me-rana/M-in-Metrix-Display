@@ -1,5 +1,6 @@
 # M-in-Metrix-Display
 You can show English Character Display M in 8x8-Metrix Display using PIC16F877 from Proteus Profession 8.0+ and write the program in MikroC 7.6.0 or more 
+![Screenshot](FullMmetrix.PNG)
 
 Download Resources-M.zip
 1. Proteus/PIC16F877_M.pdsprj is Working on Proteus [Circuit Design]
