@@ -11,8 +11,8 @@ Download Resources-M.zip
 
 Run this.
 
-Thanks,
-Rana Bepari
+Thanks,<br>
+Rana Bepari<br>
 B.Sc(Prof) in Electronics and Communication Engineering
 
 
