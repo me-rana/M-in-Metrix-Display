@@ -12,7 +12,6 @@ Download Resources-M.zip
 Run this.
 
 Thanks,<br>
-Rana Bepari<br>
-B.Sc(Prof) in Electronics and Communication Engineering
+Rana Bepari
 
 
